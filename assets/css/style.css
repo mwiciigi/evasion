@@ -4737,7 +4737,7 @@ footer.main-footer {
 	float:left;
 	width:100%;
 	position:relative;
-	padding:90px 0 0 0;
+	padding-top: 40px;
 	z-index:50;
 	overflow: hidden;
 }
@@ -6388,4 +6388,9 @@ header.main-header {
 	-webkit-background-size:cover;
 	background-position:center;
 }
+
+}
+.evasionalignleft{
+	text-align: left;
+
 }

@@ -66,23 +66,15 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="<?php echo base_url();?>home" class="act-link">Home </i></a>
+                                    <a href="<?php echo base_url();?>home" >Home </i></a>
                                 </li>
 
                                 <li>
-                                    <a href="#">About Us <i class="fa fa-caret-down"></i></a>
-                                    <!--second level
-                                    <ul>
-                                        <li><a href="listing.html">Mission</a></li>
-                                        <li><a href="listing2.html">Vision</a></li>
-                                        <li><a href="listing3.html">Company Strategy</a></li>
-                                        <li><a href="listing4.html">Our Core Values</a></li>
-                                    </ul>
-                                    second level end-->
+                                    <a href="<?php echo base_url();?>about_us">About Us</i></a>
                                 </li>
 
                                 <li>
-                                    <a href="#">Our Service <i class="fa fa-caret-down"></i></a>
+                                    <a href="<?php echo base_url();?>how_it_works">How it Works <i class="fa fa-caret-down"></i></a>
                                     <!--second level -
                                     <ul>
                                         <li><a href="listing.html">Mission</a></li>
