@@ -3560,7 +3560,7 @@ article .list-single-main-item {
 #singleMap {
 	width:100%;
 	position:relative;
-	height:300px;
+	height:500px;
 	float:left;
 	margin-bottom:30px;
 }
@@ -3792,7 +3792,7 @@ article .list-single-main-item {
 }
 .user-profile-menu-wrap {
 	padding:15px 20px;
-	background:#F8FBFE;
+	background: #F8FBFE;
 	border:1px solid #eee;
 	border-radius:4px;
 }
@@ -6391,6 +6391,10 @@ header.main-header {
 
 }
 .evasionalignleft{
-	text-align: left;
-
+	text-align: left !important;
+	font-size: 12px;
+line-height: 24px;
+padding-bottom: 10px;
+font-weight: 500;
+color: #878C9F;
 }

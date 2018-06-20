@@ -51,7 +51,7 @@
                         <button class="header-search-button" onclick="window.location.href='listing.html'">Search</button>
                     </div>
                     <div class="show-search-button"><i class="fa fa-search"></i> <span>Search</span></div>
-                    <a href="<?php echo base_url();?>user/dashboard" class="add-list">Report Company <span><i class="fa fa-plus"></i></span></a>
+                    <a href="dashboard-add-listing.html" class="add-list">Report Company <span><i class="fa fa-plus"></i></span></a>
                     <div class="show-reg-form modal-open"><i class="fas fa-sign-in-alt"></i>Sign In</div>
                     <!-- nav-button-wrap-->
                     <div class="nav-button-wrap color-bg">
